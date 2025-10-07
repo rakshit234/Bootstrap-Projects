@@ -1,4 +1,4 @@
-# Bootstrap-Projects
+# Bootstrap-Projects (Responsive Layouts)
 Project - 1.
 <br>
 <img width="555" height="775" alt="Screenshot 2025-10-08 at 3 54 47 AM" src="https://github.com/user-attachments/assets/6de7645e-1c6c-48d6-aaf7-5ff561189165" />
